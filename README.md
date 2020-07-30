@@ -1,3 +1,20 @@
+
+<p align="center"><img alt="Pokegon Logo" src="https://i.imgur.com/FwvfIWs.png" /></p>
+
+# 👹 Pokegon 🦅
+
+*Like [Pokemol](https://pokemol.com/), but with [Aragon Connect](https://aragon.org/connect)!*
+
+## About
+
+We love the Pokemol interface. As soon as Aragon Connect was ready we forked the Pokemol UI to create a fun and intuitive UI for Aragon DAOs. This was spun up as a demo project so not all of the Pokemol functionality is baked in (esp the awesome new DAOhaus upgrades!), but if you want to add features please reach out. Happy to support anyone who wants to deploy Pokegon or anything similar in the wild!
+
+<br>
+
+# Create React App
+
+> This is default info which might be useful if you're hacking on this repo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
